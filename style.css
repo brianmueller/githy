@@ -1,0 +1,66 @@
+/* green: #B0DA84 */
+/* yellow: #FEE191 */
+/* red: #B4656F */
+
+body {
+  /* padding-top: 50px; */
+  background-color: #fee191;
+}
+
+html,
+body,
+#welcome,
+#summary {
+  height: 100%;
+}
+
+#welcome,
+#app,
+#summary {
+  padding-top: 50px;
+}
+
+#welcome {
+  background-color: #b0da84;
+}
+
+#start {
+  margin-top: 20px;
+}
+
+#app {
+  background-color: #fee191;
+}
+
+#summary {
+  background-color: #e2b6cf;
+  /* color: white; */
+}
+
+#app,
+#summary {
+  display: none;
+}
+
+#userHeading {
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  width: 100%;
+  height: 200px;
+  background-color: #333333;
+  color: white;
+  padding-top: 50px;
+}
+
+#feed {
+  padding-top: 200px;
+}
+
+.feed-card {
+  padding: 20px;
+}
+
+.card-img-top {
+  max-height: 300px;
+}
