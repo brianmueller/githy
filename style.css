@@ -2,6 +2,7 @@
 /* yellow: #FEE191 */
 /* red: #B4656F */
 
+@import url('https://fonts.googleapis.com/css2?family=Arsenal&family=Josefin+Slab:wght@300&family=Khula:wght@300&family=Poiret+One&family=Source+Sans+Pro:wght@300&display=swap');
 body {
   /* padding-top: 50px; */
   background-color: #fee191;
@@ -26,6 +27,18 @@ body,
 
 #start {
   margin-top: 20px;
+}
+
+#githyFont{
+  font-family: 'Poiret One', cursive;
+}
+
+#loadingFont{
+ font-family: 'Josefin Slab', serif; 
+}
+
+#catFont{
+  font-family: 'Khula', sans-serif;
 }
 
 #app {
