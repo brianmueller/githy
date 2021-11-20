@@ -141,6 +141,7 @@ document.querySelector('#postButton').addEventListener('click',function(){
         );
         postTextDom.value = "";
         likes();
+        window.scrollTo(0, 0);
     }
 });
 
@@ -378,27 +379,35 @@ document.body.addEventListener('click',function(){
     numClicks += 1;
 }, true);
 
+function addUserData(data){
+    let userDataDom = document.querySelector('#userData');
+    // <li class="list-group-item">Lorem ipsum.</li>
+    userDataDom.innerHTML += `<li class="list-group-item">${data}</li>`;
+}
+
+
+
 let summaryWrapper = document.querySelector('#summary');
 let summary = document.querySelector('#summary > .container');
 
 
-let timeGuess = document.createElement('p');
-summary.appendChild(timeGuess);
+// let timeGuess = document.createElement('p');
+// summary.appendChild(timeGuess);
 
-let timeSpent = document.createElement('p');
-summary.appendChild(timeSpent);
+// let timeSpent = document.createElement('p');
+// summary.appendChild(timeSpent);
 
-let timeDifference = document.createElement('p');
-summary.appendChild(timeDifference);
+// let timeDifference = document.createElement('p');
+// summary.appendChild(timeDifference);
 
-let userClicks = document.createElement('p');
-summary.appendChild(userClicks);
+// let userClicks = document.createElement('p');
+// summary.appendChild(userClicks);
 
-let userDown = document.createElement('p');
-summary.appendChild(userDown);
+// let userDown = document.createElement('p');
+// summary.appendChild(userDown);
 
-let userUp = document.createElement('p');
-summary.appendChild(userUp);
+// let userUp = document.createElement('p');
+// summary.appendChild(userUp);
 
 
 // https://ipdata.co/blog/how-to-get-the-ip-address-in-javascript/
@@ -409,13 +418,8 @@ function json(url) {
 // https://stackoverflow.com/questions/391979/how-to-get-clients-ip-address-using-javascript
 let apiKey = '022497a5b8de46afd3108b489831a889f0194d5f134a20caf85b5a3c';
 json(`https://api.ipdata.co?api-key=${apiKey}`).then(data => {
-    let userIP = document.createElement('p');
-    userIP.innerHTML = "Your IP address is: " + data.ip;
-    summary.appendChild(userIP);
-
-    let userLoc = document.createElement('p');
-    userLoc.innerHTML = "You are located in: " + data.city + ", " + data.region_code + ", " + data.postal;
-    summary.appendChild(userLoc);
+    addUserData("Your IP address is: " + data.ip);
+    addUserData("You are located in: " + data.city + ", " + data.region_code + ", " + data.postal);
 });
 
 function addS(count){
@@ -424,6 +428,7 @@ function addS(count){
 
 
 document.querySelector('#finish').addEventListener('click',function(){
+    window.scrollTo(0, 0);
     let elapsed = new Date() - startTime;
 
     var userTimeGuess = prompt("How many seconds do you think you spent on this app? (enter a number)");
@@ -435,15 +440,14 @@ document.querySelector('#finish').addEventListener('click',function(){
 
     // let minutesSpent = Math.floor((elapsed/1000) / 60);
     // let secondsSpent = Math.floor((elapsed/1000) % 60);
-    
-    timeGuess.innerHTML = "You thought you spent " + userTimeGuess + " second" + addS(userTimeGuess) + " on the app.";
-    timeSpent.innerHTML = "You actually spent " + secondsSpent + " second" + addS(secondsSpent) + " on the app.";
-    timeDifference.innerHTML = "You were off by " + difference + " second" + addS(difference) + ".";
-    
-    userClicks.innerHTML = "You clicked " + numClicks + " time" + addS(numClicks) + ".";
-    userDown.innerHTML = "You scrolled down " + scrollDownCount + " time" + addS(scrollDownCount) + ".";
-    userUp.innerHTML = "You scrolled back up " + scrollUpCount + " time" + addS(scrollUpCount) + ".";
-    
+
+    addUserData("You clicked " + numClicks + " time" + addS(numClicks) + ".");
+    addUserData("You scrolled down " + scrollDownCount + " time" + addS(scrollDownCount) + ".");
+    addUserData("You scrolled back up " + scrollUpCount + " time" + addS(scrollUpCount) + ".");
+
+    addUserData("You thought you spent " + userTimeGuess + " second" + addS(userTimeGuess) + " on the app.");
+    addUserData("You actually spent " + secondsSpent + " second" + addS(secondsSpent) + " on the app.");
+    addUserData("You were off by " + difference + " second" + addS(difference) + ".");
     
 });
 
