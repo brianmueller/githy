@@ -273,8 +273,8 @@ function json(url) {
 // https://stackoverflow.com/questions/391979/how-to-get-clients-ip-address-using-javascript
 let apiKey = '022497a5b8de46afd3108b489831a889f0194d5f134a20caf85b5a3c';
 json(`https://api.ipdata.co?api-key=${apiKey}`).then(data => {
-    addUserData("Your IP address is: " + data.ip);
-    addUserData("You are located in: " + data.city + ", " + data.region_code + ", " + data.postal);
+    addUserData("Your IP address is: <strong>" + data.ip + "</strong>");
+    addUserData("You are located in: <strong>" + data.city + ", " + data.region_code + ", " + data.postal + "</strong>");
 });
 
 function addS(count){
@@ -286,6 +286,9 @@ document.querySelector('#finish').addEventListener('click',function(){
     let elapsed = new Date() - startTime;
 
     var userTimeGuess = prompt("How many seconds do you think you spent on this app? (enter a number)");
+    if(userTimeGuess == ""){
+        userTimeGuess = 0;
+    }
     let secondsSpent = Math.floor((elapsed/1000));
     var difference = Math.abs(parseInt(userTimeGuess) - secondsSpent);
 
@@ -295,12 +298,12 @@ document.querySelector('#finish').addEventListener('click',function(){
     // let minutesSpent = Math.floor((elapsed/1000) / 60);
     // let secondsSpent = Math.floor((elapsed/1000) % 60);
 
-    addUserData("You clicked " + numClicks + " time" + addS(numClicks) + ".");
-    addUserData("You scrolled down " + scrollDownCount + " time" + addS(scrollDownCount) + ".");
-    addUserData("You scrolled back up " + scrollUpCount + " time" + addS(scrollUpCount) + ".");
+    addUserData("You clicked <strong>" + numClicks + " time" + addS(numClicks) + "</strong>.");
+    addUserData("You scrolled down <strong>" + scrollDownCount + " time" + addS(scrollDownCount) + "</strong>.");
+    addUserData("You scrolled back up <strong>" + scrollUpCount + " time" + addS(scrollUpCount) + "</strong>.");
 
     addUserData("You thought you spent " + userTimeGuess + " second" + addS(userTimeGuess) + " on the app.");
-    addUserData("You actually spent " + secondsSpent + " second" + addS(secondsSpent) + " on the app.");
+    addUserData("You actually spent <strong>" + secondsSpent + " second" + addS(secondsSpent) + "</strong> on the app.");
     addUserData("You were off by " + difference + " second" + addS(difference) + ".");
     
 });
