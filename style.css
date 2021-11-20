@@ -78,3 +78,9 @@ body,
 .card-img-top {
   max-height: 300px;
 }
+
+.card .bi,
+.likesNum {
+  font-size: 2em;
+  color: deeppink;
+}

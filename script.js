@@ -1,7 +1,5 @@
 /*
 TODO
-- when scrolled to bottom, loadBottom: newRandomPosts at bottom
-- add like button
 - userPost at top
 - when 15 seconds have passed: notification to load newPosts: loadTop: newRandomPosts at top
 - add comment/share
@@ -157,8 +155,8 @@ function generateNewsPost(){
                     <h5 class="card-title">${newsArticle.title}</h5>
                     <h6 class="card-subtitle mb-2 text-muted">${newsArticle.date}</h6>
                     <p class="card-text">${newsArticle.content}</p>
-                    <a href="#" class="card-link">Card link</a>
-                    <a href="#" class="card-link">Another link</a>
+                    <!-- <a href="#" class="card-link">Card link</a> -->
+                    <i class="bi bi-heart"></i> <span class="likesNum">${Math.floor(Math.random()*100+1)}</span>
                 </div>
             </div>
         </div>
@@ -222,8 +220,8 @@ function generateFriendPost(){
                 <div class="card-body">
                     <img class="card-img mb-2" src="${photo.url}" alt="Card image cap">    
                     <p class="card-text">${photo.description}</p>
-                    <a href="#" class="card-link">Card link</a>
-                    <a href="#" class="card-link">Another link</a>
+                    <!-- <a href="#" class="card-link">Card link</a> -->
+                    <i class="bi bi-heart"></i> <span class="likesNum">${Math.floor(Math.random()*100+1)}</span>
                 </div>
             </div>
         </div>
@@ -246,6 +244,32 @@ function generateNewRandomPosts(){
 
     return newRandomPosts.join("");
     
+}
+
+// <i class="bi bi-heart"></i> <span class="likesNum">4</span>
+function likes(){
+    let allHearts = document.querySelectorAll('.card .bi');
+    allHearts.forEach(function(heart){
+        heart.addEventListener('mouseover',function(){
+            heart.classList.toggle('bi-heart');
+            heart.classList.toggle('bi-heart-half');
+        });
+        heart.addEventListener('mouseout',function(){
+            heart.classList.toggle('bi-heart');
+            heart.classList.toggle('bi-heart-half');
+        });
+        heart.addEventListener('click',function(){
+            heart.classList.toggle('bi-heart');
+            heart.classList.toggle('bi-heart-fill');
+            let likesNumDom = heart.nextElementSibling;
+            if(heart.classList.contains('bi-heart')){ // not liked --> liked
+                likesNumDom.innerHTML = parseInt(likesNumDom.innerHTML)+1;
+            } else { // liked --> not liked
+                likesNumDom.innerHTML = parseInt(likesNumDom.innerHTML)-1;
+            }
+        });
+
+    });
 }
 
 document.querySelector('#start').addEventListener('click',function(){
@@ -272,12 +296,14 @@ document.querySelector('#start').addEventListener('click',function(){
     populateFriendsCategoryPhotos(newsCategory);
     // console.log(friendsCategoryPhotos);
     
+    // LOADED!
     populateNewsData(newsCategory).then(function(newsDataResponse){
         // newsData.push.apply(newsData,newsData1); // append new array to existing array
         newsData = newsDataResponse;
         // console.log(newsData);
         feed.innerHTML += generateNewRandomPosts();
         addInfiniteScrolling();
+        likes();
     });
     // feed.innerHTML += generateNewRandomPosts();
 });
@@ -307,6 +333,7 @@ function addInfiniteScrolling(){
         if($(window).scrollTop() + $(window).height() == $(document).height()) {
             // alert("bottom!");
             feed.innerHTML += generateNewRandomPosts();
+            likes();
         }
     });
 }
