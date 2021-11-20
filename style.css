@@ -16,6 +16,11 @@ body {
 #welcome {
   background-color: #b0da84;
   font-family: "Poiret One", cursive;
+  font-size: 135%;
+}
+
+#welcome p {
+  /* font-size: 200%; */
 }
 
 #start {
