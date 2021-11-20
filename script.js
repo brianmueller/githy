@@ -188,14 +188,15 @@ function likes(){
         //     heart.classList.toggle('bi-heart-half');
         // });
         heart.addEventListener('click',function(){
-            heart.classList.toggle('bi-heart');
-            heart.classList.toggle('bi-heart-fill');
             let likesNumDom = heart.nextElementSibling;
             if(heart.classList.contains('bi-heart')){ // not liked --> liked
                 likesNumDom.innerHTML = parseInt(likesNumDom.innerHTML)+1;
             } else { // liked --> not liked
                 likesNumDom.innerHTML = parseInt(likesNumDom.innerHTML)-1;
             }
+            heart.classList.toggle('bi-heart');
+            heart.classList.toggle('bi-heart-fill');
+            
         });
 
     });
