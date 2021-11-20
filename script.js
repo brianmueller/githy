@@ -179,14 +179,14 @@ function generateNewRandomPosts(){
 function likes(){
     let allHearts = document.querySelectorAll('.card .bi');
     allHearts.forEach(function(heart){
-        heart.addEventListener('mouseover',function(){
-            heart.classList.toggle('bi-heart');
-            heart.classList.toggle('bi-heart-half');
-        });
-        heart.addEventListener('mouseout',function(){
-            heart.classList.toggle('bi-heart');
-            heart.classList.toggle('bi-heart-half');
-        });
+        // heart.addEventListener('mouseover',function(){
+        //     heart.classList.toggle('bi-heart');
+        //     heart.classList.toggle('bi-heart-half');
+        // });
+        // heart.addEventListener('mouseout',function(){
+        //     heart.classList.toggle('bi-heart');
+        //     heart.classList.toggle('bi-heart-half');
+        // });
         heart.addEventListener('click',function(){
             heart.classList.toggle('bi-heart');
             heart.classList.toggle('bi-heart-fill');
@@ -281,7 +281,7 @@ function addS(count){
 }
 
 document.querySelector('#finish').addEventListener('click',function(){
-    window.scrollTo(0, 0);
+    window.scrollTo(0, 1);
     let elapsed = new Date() - startTime;
 
     var userTimeGuess = prompt("How many seconds do you think you spent on this app? (enter a number)");
