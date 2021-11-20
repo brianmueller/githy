@@ -1,8 +1,8 @@
 /*
 TODO
 - when scrolled to bottom, loadBottom: newRandomPosts at bottom
-- userPost at top
 - add like button
+- userPost at top
 - when 15 seconds have passed: notification to load newPosts: loadTop: newRandomPosts at top
 - add comment/share
 */
@@ -270,7 +270,7 @@ document.querySelector('#start').addEventListener('click',function(){
     let newsCategory = selected.value;
 
     populateFriendsCategoryPhotos(newsCategory);
-    console.log(friendsCategoryPhotos);
+    // console.log(friendsCategoryPhotos);
     
     populateNewsData(newsCategory).then(function(newsDataResponse){
         // newsData.push.apply(newsData,newsData1); // append new array to existing array
@@ -284,13 +284,29 @@ document.querySelector('#start').addEventListener('click',function(){
 
 
 function addInfiniteScrolling(){
-    window.addEventListener("scroll", function(){ // or window.addEventListener("scroll"....
+    // window.addEventListener("scroll", function(){ // or window.addEventListener("scroll"....
 
-        // check to load more
-        if ((window.innerHeight + Math.ceil(window.pageYOffset)) >= document.body.offsetHeight) {
-            // you're at the bottom of the page
-            // feed.innerHTML += generateNewRandomPosts()
-            console.log("at the bottom" + Math.floor(Math.random()*10));
+    //     // check to load more
+    //     if ((window.innerHeight + Math.ceil(window.pageYOffset)) >= document.body.offsetHeight) {
+    //         // you're at the bottom of the page
+    //         // feed.innerHTML += generateNewRandomPosts()
+    //         console.log("at the bottom" + Math.floor(Math.random()*10));
+    //     }
+    // });
+    
+    // document.addEventListener('scroll', function (event) {
+    //     console.log("scrollHeight: " + document.body.scrollHeight + "; scrollTop: " + document.body.scrollTop + "; innerHeight: " + window.innerHeight);
+    //     if (document.body.scrollHeight == 
+    //         document.body.scrollTop +        
+    //         window.innerHeight) {
+    //         alert("Bottom!");
+    //     }
+    // });
+    
+    $(window).scroll(function() {
+        if($(window).scrollTop() + $(window).height() == $(document).height()) {
+            // alert("bottom!");
+            feed.innerHTML += generateNewRandomPosts();
         }
     });
 }
