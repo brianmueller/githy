@@ -1,6 +1,6 @@
 /*
 TODO
-- userPost at top
+- revamp summary
 - when 15 seconds have passed: notification to load newPosts: loadTop: newRandomPosts at top
 - add comment/share
 */
@@ -117,6 +117,29 @@ insertCategories();
 // }
 
 
+
+
+// USER POST
+document.querySelector('#postButton').addEventListener('click',function(){
+    let postTextDom = document.querySelector('#postText');
+    feed.insertAdjacentHTML("afterbegin",
+        `
+            <div class="${cardWidths} feed-card">
+                <div class="card">
+                    <h5 class="card-header">
+                        <img class="rounded-circle m-2" src="avatar.png">
+                        ${userName}
+                    </h5>
+                    <div class="card-body">
+                        <p class="card-text">${postTextDom.value}</p>
+                        <i class="bi bi-heart"></i> <span class="likesNum">0</span>
+                    </div>
+                </div>
+            </div>
+        `
+    );
+    postTextDom.value = "";
+});
 
 
 let cardWidths = "col-sm-6 col-md-4";
