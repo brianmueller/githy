@@ -215,10 +215,12 @@ function generateFriendPost(){
     result = `
         <div class="${cardWidths} feed-card">
             <div class="card">
-                <img class="card-img-top" src="${photo.url}" alt="Card image cap">
+                <h5 class="card-header">
+                    <img class="rounded-circle m-2" src="${friend.picture.medium}">
+                    ${friend.name.first} ${friend.name.last}
+                </h5>
                 <div class="card-body">
-                    <img class="rounded-circle mb-2" src="${friend.picture.medium}">
-                    <h5 class="card-title text-muted">${friend.name.first} ${friend.name.last}</h5>
+                    <img class="card-img mb-2" src="${photo.url}" alt="Card image cap">    
                     <p class="card-text">${photo.description}</p>
                     <a href="#" class="card-link">Card link</a>
                     <a href="#" class="card-link">Another link</a>
