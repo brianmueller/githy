@@ -140,6 +140,7 @@ document.querySelector('#postButton').addEventListener('click',function(){
             `
         );
         postTextDom.value = "";
+        likes();
     }
 });
 
