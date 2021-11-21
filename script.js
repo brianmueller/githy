@@ -283,7 +283,8 @@ function addS(count){
 }
 
 document.querySelector('#finish').addEventListener('click',function(){
-    window.scrollTo(0, 1);
+    // window.scrollTo(0, 1); // doesn't work on mobile
+    $('html, body').animate({scrollTop : 0},0);
     let elapsed = new Date() - startTime;
 
     var userTimeGuess = prompt("How many seconds do you think you spent on this app? (enter a number)");
