@@ -7,7 +7,7 @@ body {
 #welcome,
 #app,
 #summary {
-  padding-top: 50px;
+  padding-top: 30px;
   display: flex;
   height: auto;
   min-height: 100%;
@@ -19,8 +19,8 @@ body {
   font-size: 135%;
 }
 
-#welcome p {
-  /* font-size: 200%; */
+#welcome h1 {
+  margin-bottom: 20px;
 }
 
 #start {
@@ -41,6 +41,7 @@ body {
 
 #app {
   background-color: #fee191;
+  margin-top: 20px;
 }
 
 #summary {
