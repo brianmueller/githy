@@ -1,6 +1,5 @@
 /*
 TODO
-- when 15 seconds have passed: notification to load newPosts: loadTop: newRandomPosts at top
 - add comment/share
 */
 
@@ -228,6 +227,7 @@ document.querySelector('#start').addEventListener('click',function(){
         feed.innerHTML += generateNewRandomPosts();
         addInfiniteScrolling();
         likes();
+        queueLoadNew();
     });
     // feed.innerHTML += generateNewRandomPosts();
 });
@@ -243,6 +243,16 @@ function addInfiniteScrolling(){
     });
 }
 
+function queueLoadNew(){
+    document.querySelector('#loadNew').addEventListener('click',function(){
+        this.style.display = 'none';
+        feed.insertAdjacentHTML("afterbegin",generateNewRandomPosts());
+        queueLoadNew(); // reset
+    });
+    window.setTimeout(function(){
+        document.querySelector('#loadNew').style.display = 'inline';
+    }, 15000);
+}
 
 
 
