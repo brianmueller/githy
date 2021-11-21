@@ -9,6 +9,7 @@ TODO
 let startTime;
 let numClicks = 0;
 let userName;
+let newsCategory;
 
 
 /********** WELCOME **********/
@@ -214,7 +215,7 @@ document.querySelector('#start').addEventListener('click',function(){
     // single radio
     let radios = document.getElementsByName("category");
     let selected = Array.from(radios).find(radio => radio.checked);
-    let newsCategory = selected.value;
+    newsCategory = selected.value;
 
     populateFriendsCategoryPhotos(newsCategory);
     // console.log(friendsCategoryPhotos);
@@ -305,6 +306,7 @@ document.querySelector('#finish').addEventListener('click',function(){
     addUserData("You thought you spent " + userTimeGuess + " second" + addS(userTimeGuess) + " on the app.");
     addUserData("You actually spent <strong>" + secondsSpent + " second" + addS(secondsSpent) + "</strong> on the app.");
     addUserData("You were off by " + difference + " second" + addS(difference) + ".");
+    addUserData("Your interest: <strong>" + newsCategory + "</strong>.");
     
 });
 
