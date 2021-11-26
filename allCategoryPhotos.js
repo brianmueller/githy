@@ -175,7 +175,7 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1569074187119-c87815b476da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxM3x8c3BvcnRzfGVufDB8MHx8fDE2MzY3NDk2MTQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"",
+          "description":"Cowboys may have some competition once we show up!",
           "url":"https://images.unsplash.com/photo-1485400031595-976c74cf4e25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxNHx8c3BvcnRzfGVufDB8MHx8fDE2MzY3NDk2MTQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -183,7 +183,7 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1505250469679-203ad9ced0cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxNXx8c3BvcnRzfGVufDB8MHx8fDE2MzY3NDk2MTQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Finally hitting the gym after a long time away. Feels good!",
           "url":"https://images.unsplash.com/photo-1556817411-31ae72fa3ea0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxNnx8c3BvcnRzfGVufDB8MHx8fDE2MzY3NDk2MTQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -191,7 +191,7 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxN3x8c3BvcnRzfGVufDB8MHx8fDE2MzY3NDk2MTQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"This is called a football everywhere else in the world but the US. ¯\_(ツ)_/¯ ",
           "url":"https://images.unsplash.com/photo-1575361204480-aadea25e6e68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxOHx8c3BvcnRzfGVufDB8MHx8fDE2MzY3NDk2MTQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -199,11 +199,11 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1502904550040-7534597429ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxOXx8c3BvcnRzfGVufDB8MHx8fDE2MzY3NDk2MTQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Join us Saturday mornings and 10am for a refreshing run. We meet at the entrance at 59th street and make our way to 72nd street on the East Side.",
           "url":"https://images.unsplash.com/photo-1607962837359-5e7e89f86776?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyMHx8c3BvcnRzfGVufDB8MHx8fDE2MzY3NDk2MTQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"direct hit",
+          "description":"direct hit! learn how to box the right way. join BronxBox today!",
           "url":"https://images.unsplash.com/photo-1495555687398-3f50d6e79e1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyMXx8c3BvcnRzfGVufDB8MHx8fDE2MzY3NDk2MTQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -219,27 +219,27 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1483721310020-03333e577078?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyNHx8c3BvcnRzfGVufDB8MHx8fDE2MzY3NDk2MTQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Winter, summer, spring, fall. Running through it all.",
           "url":"https://images.unsplash.com/photo-1616271049250-02a7697e99ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyNXx8c3BvcnRzfGVufDB8MHx8fDE2MzY3NDk2MTQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Man riding the wave",
+          "description":"Riding the wave",
           "url":"https://images.unsplash.com/photo-1472108482137-8df36ccf0d7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyNnx8c3BvcnRzfGVufDB8MHx8fDE2MzY3NDk2MTQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Pratice. Go long!",
           "url":"https://images.unsplash.com/photo-1485313260896-6e6edf486858?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyN3x8c3BvcnRzfGVufDB8MHx8fDE2MzY3NDk2MTQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Osaka, can't wait to face you this weekend!",
           "url":"https://images.unsplash.com/photo-1599586120429-48281b6f0ece?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyOHx8c3BvcnRzfGVufDB8MHx8fDE2MzY3NDk2MTQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Golf wedges and balls shot close up.",
+          "description":"Available at your neighborhood DICK's Sporting Goods",
           "url":"https://images.unsplash.com/photo-1595827432953-7161e19e303e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyOXx8c3BvcnRzfGVufDB8MHx8fDE2MzY3NDk2MTU&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Believe",
           "url":"https://images.unsplash.com/photo-1514050566906-8d077bae7046?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwzMHx8c3BvcnRzfGVufDB8MHx8fDE2MzY3NDk2MTU&ixlib=rb-1.2.1&q=80&w=400"
        }
     ],
