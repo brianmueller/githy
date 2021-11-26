@@ -21,7 +21,7 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1578574577315-3fbeb0cecdc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw1fHxidXNpbmVzc3xlbnwwfDB8fHwxNjM2NzQ2OTA0&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Bright ideas, always welcome",
           "url":"https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw2fHxidXNpbmVzc3xlbnwwfDB8fHwxNjM2NzQ2OTA0&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -45,7 +45,7 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1522202176988-66273c2fd55f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxMXx8YnVzaW5lc3N8ZW58MHwwfHx8MTYzNjc0NjkwNA&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"call",
+          "description":"Always look professional, even on a call",
           "url":"https://images.unsplash.com/photo-1537511446984-935f663eb1f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxMnx8YnVzaW5lc3N8ZW58MHwwfHx8MTYzNjc0NjkwNA&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -61,15 +61,15 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1591696205602-2f950c417cb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxNXx8YnVzaW5lc3N8ZW58MHwwfHx8MTYzNjc0NjkwNA&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Ready for business, whenever you are.",
           "url":"https://images.unsplash.com/photo-1611095790444-1dfa35e37b52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxNnx8YnVzaW5lc3N8ZW58MHwwfHx8MTYzNjc0NjkwNA&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"success",
+          "description":"Success always feels like winning the jackpot",
           "url":"https://images.unsplash.com/photo-1533227268428-f9ed0900fb3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxN3x8YnVzaW5lc3N8ZW58MHwwfHx8MTYzNjc0NjkwNA&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Build a better tomorrow",
           "url":"https://images.unsplash.com/photo-1509130298739-651801c76e96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxOHx8YnVzaW5lc3N8ZW58MHwwfHx8MTYzNjc0NjkwNA&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -77,23 +77,23 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1488998527040-85054a85150e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxOXx8YnVzaW5lc3N8ZW58MHwwfHx8MTYzNjc0NjkwNA&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Tax season is upon us",
           "url":"https://images.unsplash.com/photo-1554224155-6726b3ff858f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyMHx8YnVzaW5lc3N8ZW58MHwwfHx8MTYzNjc0NjkwNA&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"man looking at marketing analytics",
+          "description":"Use monday for all your worker needs",
           "url":"https://images.unsplash.com/photo-1427751840561-9852520f8ce8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyMXx8YnVzaW5lc3N8ZW58MHwwfHx8MTYzNjc0NjkwNA&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Designer sketching Wireframes",
+          "description":"Love doing sketches in the morning, you?",
           "url":"https://images.unsplash.com/photo-1434030216411-0b793f4b4173?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyMnx8YnVzaW5lc3N8ZW58MHwwfHx8MTYzNjc0NjkwNA&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Adjusting the tie",
+          "description":"Getting ready for the big day",
           "url":"https://images.unsplash.com/photo-1491336477066-31156b5e4f35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyM3x8YnVzaW5lc3N8ZW58MHwwfHx8MTYzNjc0NjkwNA&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Teamwork makes the dream work, no matter where you are",
           "url":"https://images.unsplash.com/photo-1543269865-cbf427effbad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyNHx8YnVzaW5lc3N8ZW58MHwwfHx8MTYzNjc0NjkwNA&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -101,37 +101,37 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1507679799987-c73779587ccf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyNXx8YnVzaW5lc3N8ZW58MHwwfHx8MTYzNjc0NjkwNA&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Laptop and notepad",
+          "description":"Laptop and notepad, all I need",
           "url":"https://images.unsplash.com/photo-1501504905252-473c47e087f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyNnx8YnVzaW5lc3N8ZW58MHwwfHx8MTYzNjc0NjkwNA&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Busy Busy!",
           "url":"https://images.unsplash.com/photo-1531482615713-2afd69097998?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyN3x8YnVzaW5lc3N8ZW58MHwwfHx8MTYzNjc0NjkwNA&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Two middle age business workers smiling happy and confident. Working together with smile on face hand giving high five at the office",
+          "description":"So grateful for my business partner.",
           "url":"https://images.unsplash.com/photo-1600880292203-757bb62b4baf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyOHx8YnVzaW5lc3N8ZW58MHwwfHx8MTYzNjc0NjkwNA&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"what’s going on here",
+          "description":"what’s going on here? good news coming soon ;) ",
           "url":"https://images.unsplash.com/photo-1516321318423-f06f85e504b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyOXx8YnVzaW5lc3N8ZW58MHwwfHx8MTYzNjc0NjkwNA&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Love that I can stay connected with the homies",
           "url":"https://images.unsplash.com/photo-1611095973763-414019e72400?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwzMHx8YnVzaW5lc3N8ZW58MHwwfHx8MTYzNjc0NjkwNA&ixlib=rb-1.2.1&q=80&w=400"
        }
     ],
     "sportsPhotos":[
        {
-          "description":"Relay runner",
+          "description":"Relay runners requested",
           "url":"https://images.unsplash.com/photo-1461896836934-ffe607ba8211?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxfHxzcG9ydHN8ZW58MHwwfHx8MTYzNjc0OTYxNA&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Sunset runs are def it",
           "url":"https://images.unsplash.com/photo-1552674605-db6ffd4facb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyfHxzcG9ydHN8ZW58MHwwfHx8MTYzNjc0OTYxNA&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Golfing",
+          "description":"Practicing my short game",
           "url":"https://images.unsplash.com/photo-1535131749006-b7f58c99034b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwzfHxzcG9ydHN8ZW58MHwwfHx8MTYzNjc0OTYxNA&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -147,19 +147,19 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1471295253337-3ceaaedca402?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw2fHxzcG9ydHN8ZW58MHwwfHx8MTYzNjc0OTYxNA&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"White soccer line",
+          "description":"Tis the season",
           "url":"https://images.unsplash.com/photo-1459865264687-595d652de67e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw3fHxzcG9ydHN8ZW58MHwwfHx8MTYzNjc0OTYxNA&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Who will win this year's Open?!",
           "url":"https://images.unsplash.com/photo-1587280501635-68a0e82cd5ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw4fHxzcG9ydHN8ZW58MHwwfHx8MTYzNjc0OTYxNA&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Bad back from a sporting injury? Call Cellino (no Barnes)",
           "url":"https://images.unsplash.com/photo-1547347298-4074fc3086f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw5fHxzcG9ydHN8ZW58MHwwfHx8MTYzNjc0OTYxNA&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Phelps ain't competition for me. Swim hard, train harder.",
           "url":"https://images.unsplash.com/photo-1530549387789-4c1017266635?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxMHx8c3BvcnRzfGVufDB8MHx8fDE2MzY3NDk2MTQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -171,11 +171,11 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1484482340112-e1e2682b4856?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxMnx8c3BvcnRzfGVufDB8MHx8fDE2MzY3NDk2MTQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Catch me on GITHY Live, hittin the park soon",
           "url":"https://images.unsplash.com/photo-1569074187119-c87815b476da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxM3x8c3BvcnRzfGVufDB8MHx8fDE2MzY3NDk2MTQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"",
           "url":"https://images.unsplash.com/photo-1485400031595-976c74cf4e25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxNHx8c3BvcnRzfGVufDB8MHx8fDE2MzY3NDk2MTQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
