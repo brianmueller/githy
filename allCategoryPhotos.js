@@ -305,7 +305,7 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1446776899648-aa78eefe8ed0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxNXx8d29ybGR8ZW58MHwwfHx8MTYzNjc0OTc2OQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Protect the Earth",
           "url":"https://images.unsplash.com/photo-1460355591219-452ee2548432?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxNnx8d29ybGR8ZW58MHwwfHx8MTYzNjc0OTc2OQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -317,23 +317,23 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1491382825904-a4c6dca98e8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxOHx8d29ybGR8ZW58MHwwfHx8MTYzNjc0OTc2OQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Earth in the palm of a hand showing India and China",
+          "description":"Earth in the palm of a hand showing India and China. Cool right?",
           "url":"https://images.unsplash.com/photo-1589519160142-7d1a51b43eaf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxOXx8d29ybGR8ZW58MHwwfHx8MTYzNjc0OTc2OQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Worldmaps",
+          "description":"GITHY Maps, coming soon.",
           "url":"https://images.unsplash.com/photo-1507730961199-996c3e6ebdde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyMHx8d29ybGR8ZW58MHwwfHx8MTYzNjc0OTc2OQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"World",
+          "description":"Travel the",
           "url":"https://images.unsplash.com/photo-1498831624351-bb3e382fe091?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyMXx8d29ybGR8ZW58MHwwfHx8MTYzNjc0OTc2OQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"GITHY Goods closed for Black Friday. Stay home with your family :) ",
           "url":"https://images.unsplash.com/photo-1594492691731-3d7974140624?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyMnx8d29ybGR8ZW58MHwwfHx8MTYzNjc0OTc2OQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Glass marble in hand",
+          "description":"gganbu",
           "url":"https://images.unsplash.com/photo-1474310393803-fffb52bf17cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyM3x8d29ybGR8ZW58MHwwfHx8MTYzNjc0OTc2OQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -341,7 +341,7 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1613228577204-89a514ec79b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyNHx8d29ybGR8ZW58MHwwfHx8MTYzNjc0OTc2OQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Cool story, fam",
           "url":"https://images.unsplash.com/photo-1576185850227-1f72b7f8d483?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyNXx8d29ybGR8ZW58MHwwfHx8MTYzNjc0OTc2OQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -353,11 +353,11 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1570358934836-6802981e481e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyN3x8d29ybGR8ZW58MHwwfHx8MTYzNjc0OTc2OQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Globe",
+          "description":"Learn history, lest we repeat it.",
           "url":"https://images.unsplash.com/photo-1594450281353-5a7a067358cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyOHx8d29ybGR8ZW58MHwwfHx8MTYzNjc0OTc2OQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Vintage globe with Europe in focus",
+          "description":"Vintage globe with Europe",
           "url":"https://images.unsplash.com/photo-1589262804704-c5aa9e6def89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyOXx8d29ybGR8ZW58MHwwfHx8MTYzNjc0OTc2OQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -383,7 +383,7 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1501776553610-5b5c2107f93e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw0fHxwb2xpdGljc3xlbnwwfDB8fHwxNjM2NzQ5NzE3&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Empty Chairs",
+          "description":"Ready for some bills to pass- AOC",
           "url":"https://images.unsplash.com/photo-1520452112805-c6692c840af0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw1fHxwb2xpdGljc3xlbnwwfDB8fHwxNjM2NzQ5NzE3&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -391,12 +391,8 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1555848962-6e79363ec58f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw2fHxwb2xpdGljc3xlbnwwfDB8fHwxNjM2NzQ5NzE3&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"We are fighting for you. BLM",
           "url":"https://images.unsplash.com/photo-1613963931023-5dc59437c8a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw3fHxwb2xpdGljc3xlbnwwfDB8fHwxNjM2NzQ5NzE3&ixlib=rb-1.2.1&q=80&w=400"
-       },
-       {
-          "description":"Vintage globe with Europe in focus",
-          "url":"https://images.unsplash.com/photo-1589262804704-c5aa9e6def89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw4fHxwb2xpdGljc3xlbnwwfDB8fHwxNjM2NzQ5NzE3&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
           "description":"\"Change the politics, not the climate!\" \nA sign made by kids during the Friday's for future climate strike at the Helsinki Parliament in April 2019.",
@@ -411,7 +407,7 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1559024094-4a1e4495c3c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxMXx8cG9saXRpY3N8ZW58MHwwfHx8MTYzNjc0OTcxNw&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"We hope to never repeat what happened on January 6. Our thoughts and prayers go to the victims.",
           "url":"https://images.unsplash.com/photo-1605433975283-263394f3514e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxMnx8cG9saXRpY3N8ZW58MHwwfHx8MTYzNjc0OTcxNw&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -423,7 +419,7 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1541726260-e6b6a6a08b27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxNHx8cG9saXRpY3N8ZW58MHwwfHx8MTYzNjc0OTcxNw&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Ready or not, here we come.",
           "url":"https://images.unsplash.com/photo-1523292562811-8fa7962a78c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxNXx8cG9saXRpY3N8ZW58MHwwfHx8MTYzNjc0OTcxNw&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -435,11 +431,11 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1523241676269-af206ccd4d58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxN3x8cG9saXRpY3N8ZW58MHwwfHx8MTYzNjc0OTcxNw&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"President Donald Trump and VP Mike Pence",
+          "description":"Former President Donald Trump and VP Mike Pence",
           "url":"https://images.unsplash.com/photo-1550531996-ff3dcede9477?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxOHx8cG9saXRpY3N8ZW58MHwwfHx8MTYzNjc0OTcxNw&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Poverty in the US hits a new low. -GITHY News.",
           "url":"https://images.unsplash.com/photo-1491515648211-35ee929a06a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxOXx8cG9saXRpY3N8ZW58MHwwfHx8MTYzNjc0OTcxNw&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -467,7 +463,7 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1607778102165-6a418ee9adf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyNXx8cG9saXRpY3N8ZW58MHwwfHx8MTYzNjc0OTcxNw&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Found this funny sign today, lolz",
           "url":"https://images.unsplash.com/photo-1605332084382-52cfc097c0d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyNnx8cG9saXRpY3N8ZW58MHwwfHx8MTYzNjc0OTcxNw&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -475,15 +471,15 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1585249988465-b9f684e8162b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyN3x8cG9saXRpY3N8ZW58MHwwfHx8MTYzNjc0OTcxNw&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Peaceful marchers at the Defund the Police protest.",
           "url":"https://images.unsplash.com/photo-1602283160602-1c302f88ab8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyOHx8cG9saXRpY3N8ZW58MHwwfHx8MTYzNjc0OTcxNw&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Everyone deserves a second chance.",
           "url":"https://images.unsplash.com/photo-1554424944-d72b391975b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyOXx8cG9saXRpY3N8ZW58MHwwfHx8MTYzNjc0OTcxNw&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"America Postcards",
+          "description":"America Postcards for sale",
           "url":"https://images.unsplash.com/photo-1595127164062-a48e1fdf1d38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwzMHx8cG9saXRpY3N8ZW58MHwwfHx8MTYzNjc0OTcxNw&ixlib=rb-1.2.1&q=80&w=400"
        }
     ],
@@ -493,7 +489,7 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1633113090286-3318ea2d24ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MXwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5fGVufDB8MHx8fDE2MzY3NDk3NjI&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Code on a laptop screen",
+          "description":"Learn to code with codeGITHY today!",
           "url":"https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyfHx0ZWNobm9sb2d5fGVufDB8MHx8fDE2MzY3NDk3NjI&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -501,7 +497,7 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1518770660439-4636190af475?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwzfHx0ZWNobm9sb2d5fGVufDB8MHx8fDE2MzY3NDk3NjI&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"White robot human features",
+          "description":"Friendly robot, at your service!",
           "url":"https://images.unsplash.com/photo-1485827404703-89b55fcc595e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw0fHx0ZWNobm9sb2d5fGVufDB8MHx8fDE2MzY3NDk3NjI&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -513,15 +509,15 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1531297484001-80022131f5a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw2fHx0ZWNobm9sb2d5fGVufDB8MHx8fDE2MzY3NDk3NjI&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Working hard today",
           "url":"https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw3fHx0ZWNobm9sb2d5fGVufDB8MHx8fDE2MzY3NDk3NjI&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Taking my workplace elsewhere today. Feels good to be outside.",
           "url":"https://images.unsplash.com/photo-1633113088942-99089f4abffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MXwxfHNlYXJjaHw4fHx0ZWNobm9sb2d5fGVufDB8MHx8fDE2MzY3NDk3NjI&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Coding",
+          "description":"Loving my new workspace!",
           "url":"https://images.unsplash.com/photo-1498050108023-c5249f4df085?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw5fHx0ZWNobm9sb2d5fGVufDB8MHx8fDE2MzY3NDk3NjI&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -529,31 +525,27 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxMHx8dGVjaG5vbG9neXxlbnwwfDB8fHwxNjM2NzQ5NzYy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Female electronics engineer runs vehicle tests",
+          "description":"GITHY is looking for IT personnel. Apply today!",
           "url":"https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxMXx8dGVjaG5vbG9neXxlbnwwfDB8fHwxNjM2NzQ5NzYy&ixlib=rb-1.2.1&q=80&w=400"
-       },
-       {
-          "description":null,
-          "url":"https://images.unsplash.com/photo-1451187580459-43490279c0fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxMnx8dGVjaG5vbG9neXxlbnwwfDB8fHwxNjM2NzQ5NzYy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
           "description":"late night working",
           "url":"https://images.unsplash.com/photo-1517433456452-f9633a875f6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxM3x8dGVjaG5vbG9neXxlbnwwfDB8fHwxNjM2NzQ5NzYy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"GITHY University will get you ready for the future. Sign up today!",
           "url":"https://images.unsplash.com/photo-1573164713988-8665fc963095?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxNHx8dGVjaG5vbG9neXxlbnwwfDB8fHwxNjM2NzQ5NzYy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"#supportblackbusinesses",
           "url":"https://images.unsplash.com/photo-1633114127824-14b3207d7d74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MXwxfHNlYXJjaHwxNXx8dGVjaG5vbG9neXxlbnwwfDB8fHwxNjM2NzQ5NzYy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Orb of power",
+          "description":"Went to the science museum today. Some cool stuff!",
           "url":"https://images.unsplash.com/photo-1496065187959-7f07b8353c55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxNnx8dGVjaG5vbG9neXxlbnwwfDB8fHwxNjM2NzQ5NzYy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Ugmonk\r\n.\r\nGrovemade",
+          "description":"Ready for some new designs today. Clear desk = clear mind",
           "url":"https://images.unsplash.com/photo-1496171367470-9ed9a91ea931?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxN3x8dGVjaG5vbG9neXxlbnwwfDB8fHwxNjM2NzQ5NzYy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -565,7 +557,7 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1605810230434-7631ac76ec81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxOXx8dGVjaG5vbG9neXxlbnwwfDB8fHwxNjM2NzQ5NzYy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Code on computer monitor",
+          "description":"So much work today. Yeesh!",
           "url":"https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyMHx8dGVjaG5vbG9neXxlbnwwfDB8fHwxNjM2NzQ5NzYy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -573,101 +565,93 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1526666923127-b2970f64b422?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyMXx8dGVjaG5vbG9neXxlbnwwfDB8fHwxNjM2NzQ5NzYy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Surface Go, now in Red! #microsoft",
           "url":"https://images.unsplash.com/photo-1633115384130-49f50dd42ff0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MXwxfHNlYXJjaHwyMnx8dGVjaG5vbG9neXxlbnwwfDB8fHwxNjM2NzQ5NzYy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Life is fast. Slow down.",
           "url":"https://images.unsplash.com/photo-1478432780021-b8d273730d8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyM3x8dGVjaG5vbG9neXxlbnwwfDB8fHwxNjM2NzQ5NzYy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"New GITHYphones. For your noise-cancelling needs.",
           "url":"https://images.unsplash.com/photo-1505740420928-5e560c06d30e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyNHx8dGVjaG5vbG9neXxlbnwwfDB8fHwxNjM2NzQ5NzYy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Instagram",
+          "description":"Take GITHYmobile with you everywhere, no extra fees!",
           "url":"https://images.unsplash.com/photo-1516251193007-45ef944ab0c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyNXx8dGVjaG5vbG9neXxlbnwwfDB8fHwxNjM2NzQ5NzYy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"work flow",
+          "description":"work flow, do not disturb",
           "url":"https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyNnx8dGVjaG5vbG9neXxlbnwwfDB8fHwxNjM2NzQ5NzYy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Welder smoke sparks",
+          "description":"I just heard GITHY is building a new headquarters. They're really expanding!",
           "url":"https://images.unsplash.com/photo-1455165814004-1126a7199f9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyN3x8dGVjaG5vbG9neXxlbnwwfDB8fHwxNjM2NzQ5NzYy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Fruitful - Free WordPress Responsive theme source code displayed on this photo, you can download it for free on wordpress.org or purchase PRO version here https://goo.gl/hYGXcj",
+          "description":"Need some help, stuck in some code.",
           "url":"https://images.unsplash.com/photo-1461749280684-dccba630e2f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyOHx8dGVjaG5vbG9neXxlbnwwfDB8fHwxNjM2NzQ5NzYy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"#wfh but not at home ;) ",
           "url":"https://images.unsplash.com/photo-1633114130148-3f40987134d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MXwxfHNlYXJjaHwyOXx8dGVjaG5vbG9neXxlbnwwfDB8fHwxNjM2NzQ5NzYy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Hackathon",
+          "description":"Hackathon was amazing this year. Learned so much",
           "url":"https://images.unsplash.com/photo-1504384764586-bb4cdc1707b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwzMHx8dGVjaG5vbG9neXxlbnwwfDB8fHwxNjM2NzQ5NzYy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Female electrical engineer designs lighting shows",
+          "description":"Being a female engineer has not been easy. Good thing I always play on hard mode.",
           "url":"https://images.unsplash.com/photo-1581090700227-1e37b190418e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwzMXx8dGVjaG5vbG9neXxlbnwwfDB8fHwxNjM2NzQ5NzYy&ixlib=rb-1.2.1&q=80&w=400"
        }
     ],
     "startupPhotos":[
        {
-          "description":"Turn Ideas into Reality! A motivational sign in a Co-Working Space. ",
+          "description":"Like my new sign?",
           "url":"https://images.unsplash.com/photo-1589561253898-768105ca91a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxfHxzdGFydHVwfGVufDB8MHx8fDE2MzY3NDk3NDI&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"New company really coming together!",
           "url":"https://images.unsplash.com/photo-1559136555-9303baea8ebd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyfHxzdGFydHVwfGVufDB8MHx8fDE2MzY3NDk3NDI&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Love the new GITHY-workspace. So quiet here!",
           "url":"https://images.unsplash.com/photo-1541746972996-4e0b0f43e02a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwzfHxzdGFydHVwfGVufDB8MHx8fDE2MzY3NDk3NDI&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Funny memes at work are funny lolz",
           "url":"https://images.unsplash.com/photo-1523240795612-9a054b0db644?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw0fHxzdGFydHVwfGVufDB8MHx8fDE2MzY3NDk3NDI&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Begin.",
+          "description":"Good morning",
           "url":"https://images.unsplash.com/photo-1489533119213-66a5cd877091?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw1fHxzdGFydHVwfGVufDB8MHx8fDE2MzY3NDk3NDI&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Brainstorming ideas with post-it notes",
+          "description":"Brainstorming ideas today. Got any?",
           "url":"https://images.unsplash.com/photo-1588856122867-363b0aa7f598?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw2fHxzdGFydHVwfGVufDB8MHx8fDE2MzY3NDk3NDI&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
-          "url":"https://images.unsplash.com/photo-1531482615713-2afd69097998?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw3fHxzdGFydHVwfGVufDB8MHx8fDE2MzY3NDk3NDI&ixlib=rb-1.2.1&q=80&w=400"
-       },
-       {
-          "description":"Here you can download the canvas: https://www.amaltama.com/problem-solution-fit-canvas-bundle or read more here https://www.ideahackers.network/problem-solution-fit-canvas/",
+          "description":"Working hard, every day",
           "url":"https://images.unsplash.com/photo-1512758017271-d7b84c2113f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw4fHxzdGFydHVwfGVufDB8MHx8fDE2MzY3NDk3NDI&ixlib=rb-1.2.1&q=80&w=400"
-       },
-       {
-          "description":null,
-          "url":"https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw5fHxzdGFydHVwfGVufDB8MHx8fDE2MzY3NDk3NDI&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
           "description":"Books you should definitely read",
           "url":"https://images.unsplash.com/photo-1598301257982-0cf014dabbcd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxMHx8c3RhcnR1cHxlbnwwfDB8fHwxNjM2NzQ5NzQy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Hit me up for some advice!",
           "url":"https://images.unsplash.com/photo-1590103514226-48facf4657fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxMXx8c3RhcnR1cHxlbnwwfDB8fHwxNjM2NzQ5NzQy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"UI Wireframe Saturday",
+          "description":"UI Wireframe Saturdays, let me know if you wanna join",
           "url":"https://images.unsplash.com/photo-1523726491678-bf852e717f6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxMnx8c3RhcnR1cHxlbnwwfDB8fHwxNjM2NzQ5NzQy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"#girlpower #womenpower",
           "url":"https://images.unsplash.com/photo-1582005450386-52b25f82d9bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxM3x8c3RhcnR1cHxlbnwwfDB8fHwxNjM2NzQ5NzQy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Free to use license. Please attribute source back to \"useproof.com\".",
+          "description":"Pitch to the guys went well today.",
           "url":"https://images.unsplash.com/photo-1556761175-5973dc0f32e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxNHx8c3RhcnR1cHxlbnwwfDB8fHwxNjM2NzQ5NzQy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -675,23 +659,23 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1519074002996-a69e7ac46a42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxNXx8c3RhcnR1cHxlbnwwfDB8fHwxNjM2NzQ5NzQy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Making some headway, finally",
           "url":"https://images.unsplash.com/photo-1557804506-669a67965ba0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxNnx8c3RhcnR1cHxlbnwwfDB8fHwxNjM2NzQ5NzQy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"school day, what a drag",
           "url":"https://images.unsplash.com/photo-1606857521015-7f9fcf423740?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxN3x8c3RhcnR1cHxlbnwwfDB8fHwxNjM2NzQ5NzQy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"i have no idea what im doing lolz",
           "url":"https://images.unsplash.com/photo-1565120130276-dfbd9a7a3ad7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxOHx8c3RhcnR1cHxlbnwwfDB8fHwxNjM2NzQ5NzQy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Brainstorming over paper",
+          "description":"Brainstorming on paper always helps",
           "url":"https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxOXx8c3RhcnR1cHxlbnwwfDB8fHwxNjM2NzQ5NzQy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Model: @Austindistel\r\nhttps://www.instagram.com/austindistel/\r\n\r\nPhotographer: @breeandstephen\r\nhttps://www.instagram.com/breeandstephen/\r\n",
+          "description":"#apple",
           "url":"https://images.unsplash.com/photo-1555421689-491a97ff2040?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyMHx8c3RhcnR1cHxlbnwwfDB8fHwxNjM2NzQ5NzQy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
