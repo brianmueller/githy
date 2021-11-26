@@ -235,7 +235,7 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1599586120429-48281b6f0ece?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyOHx8c3BvcnRzfGVufDB8MHx8fDE2MzY3NDk2MTQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Available at your neighborhood DICK's Sporting Goods",
+          "description":"Available at your neighborhood GITHY's Sporting Goods",
           "url":"https://images.unsplash.com/photo-1595827432953-7161e19e303e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyOXx8c3BvcnRzfGVufDB8MHx8fDE2MzY3NDk2MTU&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -245,7 +245,7 @@ let allCategoryPhotos = {
     ],
     "worldPhotos":[
        {
-          "description":null,
+          "description":"Keeping you connected, worldwide. GITHY-Mobile",
           "url":"https://images.unsplash.com/photo-1451187580459-43490279c0fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxfHx3b3JsZHxlbnwwfDB8fHwxNjM2NzQ5NzY5&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -265,11 +265,11 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1531266752426-aad472b7bbf4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw1fHx3b3JsZHxlbnwwfDB8fHwxNjM2NzQ5NzY5&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"United States seen from orbit",
+          "description":"United States seen from orbit, so cool",
           "url":"https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw2fHx3b3JsZHxlbnwwfDB8fHwxNjM2NzQ5NzY5&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Where would you like to go next? Let GITHY Travels decide for you.",
           "url":"https://images.unsplash.com/photo-1521295121783-8a321d551ad2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw3fHx3b3JsZHxlbnwwfDB8fHwxNjM2NzQ5NzY5&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -277,11 +277,11 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1589519160732-57fc498494f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw4fHx3b3JsZHxlbnwwfDB8fHwxNjM2NzQ5NzY5&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"https://www.instagram.com/ritsxn/",
+          "description":"Traveling to NYC, always a good time",
           "url":"https://images.unsplash.com/photo-1506111583091-becfd4bfa05d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw5fHx3b3JsZHxlbnwwfDB8fHwxNjM2NzQ5NzY5&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Globes for sale. Hit the like button for more pics!",
           "url":"https://images.unsplash.com/photo-1600907055749-d6cc7e75efd4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxMHx8d29ybGR8ZW58MHwwfHx8MTYzNjc0OTc2OQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -289,11 +289,11 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1502920514313-52581002a659?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxMXx8d29ybGR8ZW58MHwwfHx8MTYzNjc0OTc2OQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Take the plunge; take a trip inside of your comfort zone.",
           "url":"https://images.unsplash.com/photo-1550502369-d54b8f36db78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxMnx8d29ybGR8ZW58MHwwfHx8MTYzNjc0OTc2OQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"We are small compared to the rest of the world.",
           "url":"https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxM3x8d29ybGR8ZW58MHwwfHx8MTYzNjc0OTc2OQ&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
