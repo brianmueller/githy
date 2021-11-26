@@ -679,19 +679,19 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1555421689-491a97ff2040?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyMHx8c3RhcnR1cHxlbnwwfDB8fHwxNjM2NzQ5NzQy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"they aint ready for us! meeting with the team today. psyched!",
           "url":"https://images.unsplash.com/photo-1552664730-d307ca884978?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyMXx8c3RhcnR1cHxlbnwwfDB8fHwxNjM2NzQ5NzQy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Editing with a View",
+          "description":"Editing with a View, super chill",
           "url":"https://images.unsplash.com/photo-1483389127117-b6a2102724ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyMnx8c3RhcnR1cHxlbnwwfDB8fHwxNjM2NzQ5NzQy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Lean Startup workshop - the winner gets it all!",
+          "description":"Startup workshop with GITHY- the one winner gets it all!",
           "url":"https://images.unsplash.com/photo-1512820790803-83ca734da794?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyM3x8c3RhcnR1cHxlbnwwfDB8fHwxNjM2NzQ5NzQy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Ready, get set, big launch!",
           "url":"https://images.unsplash.com/photo-1590103514966-5e2a11c13e21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyNHx8c3RhcnR1cHxlbnwwfDB8fHwxNjM2NzQ5NzQy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -699,7 +699,7 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1529119368496-2dfda6ec2804?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyNXx8c3RhcnR1cHxlbnwwfDB8fHwxNjM2NzQ5NzQy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Sponsored by Google Chromebooks",
+          "description":"#Google #Chromebooks",
           "url":"https://images.unsplash.com/photo-1522202176988-66273c2fd55f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyNnx8c3RhcnR1cHxlbnwwfDB8fHwxNjM2NzQ5NzQy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -707,21 +707,21 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1522071820081-009f0129c71c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyN3x8c3RhcnR1cHxlbnwwfDB8fHwxNjM2NzQ5NzQy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Late night work night",
           "url":"https://images.unsplash.com/photo-1622151834677-70f982c9adef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyOHx8c3RhcnR1cHxlbnwwfDB8fHwxNjM2NzQ5NzQy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"my motto",
           "url":"https://images.unsplash.com/photo-1516383740770-fbcc5ccbece0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyOXx8c3RhcnR1cHxlbnwwfDB8fHwxNjM2NzQ5NzQy&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"That's not funny Jared (-__-)",
           "url":"https://images.unsplash.com/photo-1531545514256-b1400bc00f31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwzMHx8c3RhcnR1cHxlbnwwfDB8fHwxNjM2NzQ5NzQy&ixlib=rb-1.2.1&q=80&w=400"
        }
     ],
     "entertainmentPhotos":[
        {
-          "description":"Crowd of people cheering at a live concert",
+          "description":"Today was so amazing!",
           "url":"https://images.unsplash.com/photo-1603190287605-e6ade32fa852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxfHxlbnRlcnRhaW5tZW50fGVufDB8MHx8fDE2MzY3NDk2NzY&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -729,7 +729,7 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1499364615650-ec38552f4f34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyfHxlbnRlcnRhaW5tZW50fGVufDB8MHx8fDE2MzY3NDk2NzY&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"GITHY movie night!",
           "url":"https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwzfHxlbnRlcnRhaW5tZW50fGVufDB8MHx8fDE2MzY3NDk2NzY&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -741,7 +741,7 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1603739903239-8b6e64c3b185?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw1fHxlbnRlcnRhaW5tZW50fGVufDB8MHx8fDE2MzY3NDk2NzY&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"The new GITHYmobile looks soo good!",
           "url":"https://images.unsplash.com/photo-1525869811964-53594bfcb4b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw2fHxlbnRlcnRhaW5tZW50fGVufDB8MHx8fDE2MzY3NDk2NzY&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -749,19 +749,19 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1586899028174-e7098604235b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw3fHxlbnRlcnRhaW5tZW50fGVufDB8MHx8fDE2MzY3NDk2NzY&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Live on stage - live music artist",
+          "description":"Live on stage tonite.",
           "url":"https://images.unsplash.com/photo-1510511233900-1982d92bd835?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw4fHxlbnRlcnRhaW5tZW50fGVufDB8MHx8fDE2MzY3NDk2NzY&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Dance club",
+          "description":"#litty",
           "url":"https://images.unsplash.com/photo-1496337589254-7e19d01cec44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw5fHxlbnRlcnRhaW5tZW50fGVufDB8MHx8fDE2MzY3NDk2NzY&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"shop is ready",
           "url":"https://images.unsplash.com/photo-1596793503406-d90c450ba1b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxMHx8ZW50ZXJ0YWlubWVudHxlbnwwfDB8fHwxNjM2NzQ5Njc2&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"happy 4th!",
           "url":"https://images.unsplash.com/photo-1567593810070-7a3d471af022?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxMXx8ZW50ZXJ0YWlubWVudHxlbnwwfDB8fHwxNjM2NzQ5Njc2&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -769,11 +769,11 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1559402900-f5e7feea8679?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxMnx8ZW50ZXJ0YWlubWVudHxlbnwwfDB8fHwxNjM2NzQ5Njc2&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"new year approaching already, can you believe it?",
           "url":"https://images.unsplash.com/photo-1549342902-be005322599a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxM3x8ZW50ZXJ0YWlubWVudHxlbnwwfDB8fHwxNjM2NzQ5Njc2&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"great spot for a sunset. might propose tonite ;) ",
           "url":"https://images.unsplash.com/photo-1561174356-638d86f24f04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxNHx8ZW50ZXJ0YWlubWVudHxlbnwwfDB8fHwxNjM2NzQ5Njc2&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -789,35 +789,35 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxN3x8ZW50ZXJ0YWlubWVudHxlbnwwfDB8fHwxNjM2NzQ5Njc2&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Dj's Mixing console with bright buttons make sounds on dark background. Sound engineer inside party",
+          "description":"tonite's mix is gonna be fire",
           "url":"https://images.unsplash.com/photo-1618609378039-b572f64c5b42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxOHx8ZW50ZXJ0YWlubWVudHxlbnwwfDB8fHwxNjM2NzQ5Njc2&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"practicing today",
           "url":"https://images.unsplash.com/photo-1598519503616-b03bde62ce77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxOXx8ZW50ZXJ0YWlubWVudHxlbnwwfDB8fHwxNjM2NzQ5Njc2&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"filming day!",
           "url":"https://images.unsplash.com/photo-1599999904186-6a3104b3c125?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyMHx8ZW50ZXJ0YWlubWVudHxlbnwwfDB8fHwxNjM2NzQ5Njc2&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"#DJsickbeats",
           "url":"https://images.unsplash.com/photo-1556974065-52eeca9b8f68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyMXx8ZW50ZXJ0YWlubWVudHxlbnwwfDB8fHwxNjM2NzQ5Njc2&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"let's chill tonigt #netflix",
           "url":"https://images.unsplash.com/photo-1616469829941-c7200edec809?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyMnx8ZW50ZXJ0YWlubWVudHxlbnwwfDB8fHwxNjM2NzQ5Njc2&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"California spelling lesson!",
+          "description":"on vacation today. DND",
           "url":"https://images.unsplash.com/photo-1578674473215-9e07ee2e577d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyM3x8ZW50ZXJ0YWlubWVudHxlbnwwfDB8fHwxNjM2NzQ5Njc2&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"#vacationbound",
           "url":"https://images.unsplash.com/photo-1535470142785-2b2f3ce24e5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyNHx8ZW50ZXJ0YWlubWVudHxlbnwwfDB8fHwxNjM2NzQ5Njc2&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"proud of my hubby",
           "url":"https://images.unsplash.com/photo-1624880320101-d4642338f5af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyNXx8ZW50ZXJ0YWlubWVudHxlbnwwfDB8fHwxNjM2NzQ5Njc2&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -825,7 +825,7 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1571243245218-14e2a35a2569?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyNnx8ZW50ZXJ0YWlubWVudHxlbnwwfDB8fHwxNjM2NzQ5Njc2&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"im not getting on that, you buggin",
           "url":"https://images.unsplash.com/photo-1615544263302-9065606a2722?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyN3x8ZW50ZXJ0YWlubWVudHxlbnwwfDB8fHwxNjM2NzQ5Njc2&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -833,38 +833,34 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1481328101413-1eef25cc76c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyOHx8ZW50ZXJ0YWlubWVudHxlbnwwfDB8fHwxNjM2NzQ5Njc2&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Full venue during a performance",
+          "description":"#nickelback",
           "url":"https://images.unsplash.com/photo-1449748040579-354c191a7934?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyOXx8ZW50ZXJ0YWlubWVudHxlbnwwfDB8fHwxNjM2NzQ5Njc2&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Female dancers on stage for a story based performance amid beautiful light effects and graceful movement.",
+          "description":"i was nervous, but i didnt let it show #professional #singer",
           "url":"https://images.unsplash.com/photo-1579539760267-b2e78d9d735e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwzMHx8ZW50ZXJ0YWlubWVudHxlbnwwfDB8fHwxNjM2NzQ5Njc2&ixlib=rb-1.2.1&q=80&w=400"
        }
     ],
     "sciencePhotos":[
        {
-          "description":"A ball of energy with electricity beaming all over the place.",
+          "description":"science rulez!",
           "url":"https://images.unsplash.com/photo-1507413245164-6160d8298b31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxfHxzY2llbmNlfGVufDB8MHx8fDE2MzY3NDk3Mjk&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"Teaching the kids some science today. Fun messes allowed :) ",
           "url":"https://images.unsplash.com/photo-1532094349884-543bc11b234d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyfHxzY2llbmNlfGVufDB8MHx8fDE2MzY3NDk3Mjk&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Closeup of microscope",
+          "description":"New advances in technology show us more than we thought we knew about viruses. More on GITHYnews",
           "url":"https://images.unsplash.com/photo-1567427018141-0584cfcbf1b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwzfHxzY2llbmNlfGVufDB8MHx8fDE2MzY3NDk3Mjk&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"love science",
           "url":"https://images.unsplash.com/photo-1564325724739-bae0bd08762c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw0fHxzY2llbmNlfGVufDB8MHx8fDE2MzY3NDk3Mjk&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Female chemical engineer in laboratory",
+          "description":"ready for the lab",
           "url":"https://images.unsplash.com/photo-1581093588401-fbb62a02f120?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw1fHxzY2llbmNlfGVufDB8MHx8fDE2MzY3NDk3Mjk&ixlib=rb-1.2.1&q=80&w=400"
-       },
-       {
-          "description":"Plasma is beautiful.",
-          "url":"https://images.unsplash.com/photo-1530973428-5bf2db2e4d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw2fHxzY2llbmNlfGVufDB8MHx8fDE2MzY3NDk3Mjk&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
           "description":"Was looking for something to photograph in my office, and this anatomical model seemed like a fun way to pose a test model.",
@@ -875,23 +871,19 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw4fHxzY2llbmNlfGVufDB8MHx8fDE2MzY3NDk3Mjk&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Orb of power",
-          "url":"https://images.unsplash.com/photo-1496065187959-7f07b8353c55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHw5fHxzY2llbmNlfGVufDB8MHx8fDE2MzY3NDk3Mjk&ixlib=rb-1.2.1&q=80&w=400"
-       },
-       {
-          "description":"Purple Pipette",
+          "description":"Purple is my favorite color, but this is a dangerous chemical. So tempting to touch (<__<)",
           "url":"https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxMHx8c2NpZW5jZXxlbnwwfDB8fHwxNjM2NzQ5NzI5&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"learning to code today, brb",
           "url":"https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxMXx8c2NpZW5jZXxlbnwwfDB8fHwxNjM2NzQ5NzI5&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Microscope",
+          "description":"Microscopes ready for class today",
           "url":"https://images.unsplash.com/photo-1518152006812-edab29b069ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxMnx8c2NpZW5jZXxlbnwwfDB8fHwxNjM2NzQ5NzI5&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"looks like a futuristic jungle gym",
           "url":"https://images.unsplash.com/photo-1534777410147-084a460870fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxM3x8c2NpZW5jZXxlbnwwfDB8fHwxNjM2NzQ5NzI5&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -899,15 +891,11 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1517976487492-5750f3195933?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxNHx8c2NpZW5jZXxlbnwwfDB8fHwxNjM2NzQ5NzI5&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
-          "url":"https://images.unsplash.com/photo-1451187580459-43490279c0fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxNXx8c2NpZW5jZXxlbnwwfDB8fHwxNjM2NzQ5NzI5&ixlib=rb-1.2.1&q=80&w=400"
-       },
-       {
-          "description":null,
+          "description":"thirsty? dont drink this, it's not water lolz",
           "url":"https://images.unsplash.com/photo-1501740326664-5571ff5e30a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxNnx8c2NpZW5jZXxlbnwwfDB8fHwxNjM2NzQ5NzI5&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"science is hard :( ",
           "url":"https://images.unsplash.com/photo-1559757148-5c350d0d3c56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxN3x8c2NpZW5jZXxlbnwwfDB8fHwxNjM2NzQ5NzI5&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -915,11 +903,11 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1521587760476-6c12a4b040da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxOHx8c2NpZW5jZXxlbnwwfDB8fHwxNjM2NzQ5NzI5&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"arent brains cool?",
           "url":"https://images.unsplash.com/photo-1617791160536-598cf32026fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwxOXx8c2NpZW5jZXxlbnwwfDB8fHwxNjM2NzQ5NzI5&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Female scientist pipetting colored chemicals into a tube.",
+          "description":"helping find the cure, brb",
           "url":"https://images.unsplash.com/photo-1614935151651-0bea6508db6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyMHx8c2NpZW5jZXxlbnwwfDB8fHwxNjM2NzQ5NzI5&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -927,7 +915,7 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1488229297570-58520851e868?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyMXx8c2NpZW5jZXxlbnwwfDB8fHwxNjM2NzQ5NzI5&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Dancing drops",
+          "description":"rain today",
           "url":"https://images.unsplash.com/photo-1486291301608-a503c774721a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyMnx8c2NpZW5jZXxlbnwwfDB8fHwxNjM2NzQ5NzI5&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -935,15 +923,15 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1416816901131-9e5eab64c1c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyM3x8c2NpZW5jZXxlbnwwfDB8fHwxNjM2NzQ5NzI5&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Chemical engineers talk in laboratory",
+          "description":"Feeling super accomplished at work lately #lovemyjob",
           "url":"https://images.unsplash.com/photo-1581093448798-fa7eab922c96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyNHx8c2NpZW5jZXxlbnwwfDB8fHwxNjM2NzQ5NzI5&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Transparent skull model",
+          "description":"he must have a headache today",
           "url":"https://images.unsplash.com/photo-1453847668862-487637052f8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyNXx8c2NpZW5jZXxlbnwwfDB8fHwxNjM2NzQ5NzI5&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":"Plants in beakers",
+          "description":"Trying out some new combinations. So cool.",
           "url":"https://images.unsplash.com/photo-1475906089153-644d9452ce87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyNnx8c2NpZW5jZXxlbnwwfDB8fHwxNjM2NzQ5NzI5&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
@@ -951,7 +939,7 @@ let allCategoryPhotos = {
           "url":"https://images.unsplash.com/photo-1516670428252-df97bba108d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyN3x8c2NpZW5jZXxlbnwwfDB8fHwxNjM2NzQ5NzI5&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
-          "description":null,
+          "description":"love her! she's so smart!",
           "url":"https://images.unsplash.com/photo-1534643960519-11ad79bc19df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUxODd8MHwxfHNlYXJjaHwyOHx8c2NpZW5jZXxlbnwwfDB8fHwxNjM2NzQ5NzI5&ixlib=rb-1.2.1&q=80&w=400"
        },
        {
