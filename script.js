@@ -203,6 +203,7 @@ function likes(){
 }
 
 document.querySelector('#start').addEventListener('click',function(){
+    alert(`When you are done, press "Finish"`);
     startTime = new Date;
     document.querySelector('#welcome').style.display = 'none';
     document.querySelector('#app').style.display = 'block';
