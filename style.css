@@ -46,6 +46,10 @@ body {
   font-family: "Poiret One", cursive;
 }
 
+#greeting {
+  font-family: "Poiret One", cursive;
+}
+
 #loadingFont {
   font-family: "Josefin Slab", serif;
 }
@@ -108,6 +112,10 @@ body {
 /* SUMMARY */
 #summary {
   padding-bottom: 20px;
+}
+
+#summary h1 {
+  font-family: "Poiret One", cursive;
 }
 
 #summary strong {
