@@ -39,7 +39,7 @@ function insertCategories(){
         } else {
             categoriesDom.innerHTML += `<input type="radio" name="category" value="${category}"> ${category.capitalize()}<br>`;
         }
-            
+
     });
     let parentElement = document.querySelector("#welcome > .container");
     parentElement.insertBefore(categoriesDom, parentElement.children[3]);
@@ -137,10 +137,10 @@ function populateFriendsCategoryPhotos(category){
 }
 
 function generateFriendPost(){
-    
+
     let friend = friends[Math.floor(Math.random()*100)];
     let photo = friendsCategoryPhotos.pop();
-    
+
     result = `
         <div class="${cardWidths} feed-card">
             <div class="card">
@@ -149,7 +149,7 @@ function generateFriendPost(){
                     ${friend.name.first} ${friend.name.last}
                 </h5>
                 <div class="card-body">
-                    <img class="card-img mb-2" src="${photo.url}" alt="Card image cap">    
+                    <img class="card-img mb-2" src="${photo.url}" alt="Card image cap">
                     <p class="card-text">${photo.description}</p>
                     <!-- <a href="#" class="card-link">Card link</a> -->
                     <i class="bi bi-heart"></i> <span class="likesNum">${Math.floor(Math.random()*100+1)}</span>
@@ -161,9 +161,9 @@ function generateFriendPost(){
 }
 
 function generateNewRandomPosts(){
-    
+
     let newRandomPosts = [];
-    
+
     for(let i = 0; i < 5; i++){
         newRandomPosts.push(generateNewsPost());
         newRandomPosts.push(generateFriendPost());
@@ -172,7 +172,7 @@ function generateNewRandomPosts(){
     shuffleArray(newRandomPosts);
 
     return newRandomPosts.join("");
-    
+
 }
 
 // <i class="bi bi-heart"></i> <span class="likesNum">4</span>
@@ -196,7 +196,7 @@ function likes(){
             }
             heart.classList.toggle('bi-heart');
             heart.classList.toggle('bi-heart-fill');
-            
+
         });
 
     });
@@ -219,7 +219,7 @@ document.querySelector('#start').addEventListener('click',function(){
 
     populateFriendsCategoryPhotos(newsCategory);
     // console.log(friendsCategoryPhotos);
-    
+
     // LOADED!
     populateNewsData(newsCategory).then(function(newsDataResponse){
         // newsData.push.apply(newsData,newsData1); // append new array to existing array
@@ -248,6 +248,7 @@ function queueLoadNew(){
     document.querySelector('#loadNew').addEventListener('click',function(){
         this.style.display = 'none';
         feed.insertAdjacentHTML("afterbegin",generateNewRandomPosts());
+        likes();
         queueLoadNew(); // reset
     });
     window.setTimeout(function(){
@@ -319,7 +320,7 @@ document.querySelector('#finish').addEventListener('click',function(){
     addUserData("You actually spent <strong>" + secondsSpent + " second" + addS(secondsSpent) + "</strong> on the app.");
     addUserData("You were off by " + difference + " second" + addS(difference) + ".");
     addUserData("Your interest: <strong>" + newsCategory + "</strong>.");
-    
+
 });
 
 // https://www.techighness.com/post/javascript-track-user-activity-on-webpage-with-custom-script/
@@ -337,7 +338,7 @@ window.addEventListener("scroll", function(){ // or window.addEventListener("scr
         scrollingDownRecently = scrollingDown;
     }
     started = true;
-    
+
     var st = window.pageYOffset || document.documentElement.scrollTop; // Credits: "https://github.com/qeremy/so/blob/master/so.dom.js#L426";
     if (st > lastScrollTop){
         // downscroll code
@@ -347,7 +348,7 @@ window.addEventListener("scroll", function(){ // or window.addEventListener("scr
         scrollingDown = false;
    }
    lastScrollTop = st <= 0 ? 0 : st; // For Mobile or negative scrolling
-   
+
 
    // count
    if(scrollingDown && !scrollingDownRecently){
